@@ -1,5 +1,5 @@
 # data base configuration
-host="localhost"
-user="root"
+host="13.235.70.41"
+user="raghava"
 password="Raghava@123"
-database="flaskapp"
+database="myflaskapp"
